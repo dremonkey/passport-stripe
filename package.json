@@ -28,6 +28,7 @@
   "dependencies": {
     "pkginfo": "~0.3.0",
     "passport-oauth": "~1.0.0",
+    "stripe": "~2.4.2"
   },
   "devDependencies": {
     "vows": "0.6.x"
