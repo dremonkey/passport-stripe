@@ -26,10 +26,8 @@
   ],
   "main": "./lib/passport-stripe",
   "dependencies": {
-    "pkginfo": "0.2.x",
-    "passport-oauth": "~0.1.2",
-    "url": "",
-    "util": ""
+    "pkginfo": "~0.3.0",
+    "passport-oauth": "~1.0.0",
   },
   "devDependencies": {
     "vows": "0.6.x"
